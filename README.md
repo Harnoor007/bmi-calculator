@@ -1,6 +1,7 @@
 # BMI Calculator
 
 This is a simple Body Mass Index (BMI) Calculator built with React.
+Click [here](https://bmi-calculator-iota-seven.vercel.app/) to use the application.
 
 ## Features
 
